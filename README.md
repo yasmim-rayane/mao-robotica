@@ -6,4 +6,4 @@ A configuração dos pinos dos dedos e da COM do Arduino estão no arquivo servo
 Para verificar os requisitos necessários do projeto, leia o arquivo requirements.txt.
 
 Esse projeto é inspirado no projeto open-source do vídeo abaixo, embora contenha algumas alterações na estrutura física e no código:
-![image](https://github.com/user-attachments/assets/01af0426-7514-437f-aecc-d2267797de2d)
+[Vídeo original no YouTube](https://www.youtube.com/watch?v=ebRO4B7bNBE)
