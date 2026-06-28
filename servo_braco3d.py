@@ -3,7 +3,7 @@ import time
 
 # Entrada que o Arduino está conectado no dispositivo
 # Pode (e possivelmente vai) variar
-board = Arduino('COM5')
+board = Arduino('COM6')
 
 # Pinos dos dedos nos servos da mão
 pin1 = 3
@@ -28,7 +28,7 @@ def abrir_fechar(pin,on_off):
     elif on_off==0 and pin!=11 and pin!=9:
         rotateServo(pin, 140)
     elif on_off == 0 and pin == 11:
-        rotateServo(pin, 150)
+        rotateServo(pin, 75)
     elif on_off == 0 and pin == 9:
         rotateServo(pin, 180)
 
