@@ -28,7 +28,7 @@ def abrir_fechar(pin,on_off):
     elif on_off==0 and pin!=11 and pin!=9:
         rotateServo(pin, 140)
     elif on_off == 0 and pin == 11:
-        rotateServo(pin, 75)
+        rotateServo(pin, 100)
     elif on_off == 0 and pin == 9:
         rotateServo(pin, 180)
 
