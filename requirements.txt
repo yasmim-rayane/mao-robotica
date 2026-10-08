@@ -1,5 +1,5 @@
 # Versão do Python: 3.9
-# Código a ser instalado no Arduino: biblioteca PyFirmata (Firmata Standard)
+# Código a ser instalado no Arduino: biblioteca PyFirmata (Firmata Standard) (o Arduino atualmente já está com o código instalado e não há necessidade de alteração)
 
 # DICA: Para instalar todas as bibliotecas, utilize o comando abaixo:
 # pip install -r requirements.txt 
